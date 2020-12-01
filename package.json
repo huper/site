@@ -1,0 +1,30 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Huper.net",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huper/site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huper/site/issues"
+  },
+  "homepage": "https://github.com/huper/site#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.2"
+  }
+}
