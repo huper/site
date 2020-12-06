@@ -31,16 +31,16 @@ export default class MyApp extends App {
     let comment = document.createComment(`
 
 =========================================================
-* Notus NextJS - v1.0.0 based on Tailwind Starter Kit by Creative Tim
+* HUPER.NET - v1.0.0 based on Tailwind Starter Kit by Huper
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/notus-nextjs
-* Copyright 2020 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/notus-nextjs/blob/master/LICENSE.md)
+* Product Page: https://www.huper.net/product/site
+* Copyright 2020 Huper (https://www.huper.net)
+* Licensed under MIT (https://github.com/huper/site/blob/master/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+* Tailwind Starter Kit Page: https://www.huper.net/learning-lab/tailwind-starter-kit/presentation
 
-* Coded by Creative Tim
+* Coded by Huper
 
 =========================================================
 
@@ -70,7 +70,7 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <title>Notus NextJS by Creative Tim</title>
+          <title>Huper.net - Super Humans</title>
         </Head>
         <Layout>
           <Component {...pageProps} />

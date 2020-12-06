@@ -13,31 +13,30 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-gray-700">
-                Notus NextJS - A beautiful extension for Tailwind CSS.
+                Huper.net - Super Humans.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-gray-600">
-                Notus NextJS is Free and Open Source. It does not change or add
+                Huper is Free and Open Source. It does not change or add
                 any CSS to the already one from{" "}
                 <a
-                  href="https://tailwindcss.com/?ref=creativetim"
+                  href="http://huper.net"
                   className="text-gray-700"
                   target="_blank"
                 >
-                  Tailwind CSS
+                  Huper YT Company
                 </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+                . Open IT Company to Super Humans.
               </p>
               <div className="mt-12">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
+                  href="https://www.huper.net/learning-lab/tailwind/nextjs/overview/huper?ref=nnjs-index"
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-600 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   Get started
                 </a>
                 <a
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
+                  href="https://github.com/huper/site?ref=nnjs-index"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg"
                   target="_blank"
                 >
@@ -49,7 +48,7 @@ export default function Index() {
         </div>
         <img
           className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860-px"
-          src={require("assets/img/pattern_nextjs.png")}
+          src={require("assets/img/default.png")}
           alt="..."
         />
       </section>
@@ -96,13 +95,11 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    Great for your awesome project
+                    Super Society
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
-                    Putting together a page has never been easier than matching
-                    together pre-made components. From landing pages
-                    presentation to login areas, you can easily customise and
-                    built your pages.
+                    How will be the society in the future? However how was your 
+                    idea for the best society?
                   </p>
                 </blockquote>
               </div>
@@ -117,11 +114,10 @@ export default function Index() {
                         <i className="fas fa-sitemap"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        CSS Components
+                        Huper
                       </h6>
                       <p className="mb-4 text-gray-600">
-                        Notus NextJS comes with a huge number of Fully Coded CSS
-                        components.
+                        Open YT Company
                       </p>
                     </div>
                   </div>
@@ -131,11 +127,10 @@ export default function Index() {
                         <i className="fas fa-drafting-compass"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        JavaScript Components
+                        Huper College
                       </h6>
                       <p className="mb-4 text-gray-600">
-                        We also feature many dynamic components for React,
-                        NextJS, Vue and Angular.
+                        Essencials courses for IT guys.
                       </p>
                     </div>
                   </div>
@@ -146,10 +141,9 @@ export default function Index() {
                       <div className="text-gray-600 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                         <i className="fas fa-newspaper"></i>
                       </div>
-                      <h6 className="text-xl mb-1 font-semibold">Pages</h6>
+                      <h6 className="text-xl mb-1 font-semibold">Sofwares</h6>
                       <p className="mb-4 text-gray-600">
-                        This extension also comes with 3 sample pages. They are
-                        fully coded so you can start working instantly.
+                        What is your ideas for technologies?
                       </p>
                     </div>
                   </div>
@@ -159,11 +153,10 @@ export default function Index() {
                         <i className="fas fa-file-alt"></i>
                       </div>
                       <h6 className="text-xl mb-1 font-semibold">
-                        Documentation
+                        All technologies
                       </h6>
                       <p className="mb-4 text-gray-600">
-                        Built by developers for developers. You will love how
-                        easy is to to work with Notus NextJS.
+                        Would you like to reduce the costs from your company?
                       </p>
                     </div>
                   </div>
@@ -180,41 +173,40 @@ export default function Index() {
                 <i className="fas fa-sitemap text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                CSS Components
+                Open social community
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-                Every element that you need in a product comes built in as a
-                component. All components fit perfectly with each other and can
-                have different colours.
+                It's mean a open source code and without server. No companies to manager and have your data.
+                You are the manager of your data. 
               </p>
               <div className="block pb-6">
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Buttons
+                  Database
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Inputs
+                  Hosting
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Labels
+                  Server
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
+                  No companies
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
+                  No special data
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Pagination
+                  You have access of all your data
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Progressbars
+                  New internet
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Typography
+                  Super society
                 </span>
               </div>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=nnjs-index"
+                href="http://www.huper.org"
                 target="_blank"
                 className="font-bold text-gray-800 hover:text-gray-600 ease-linear transition-all duration-150"
               >
@@ -264,14 +256,14 @@ export default function Index() {
               <div className="justify-center flex flex-wrap relative">
                 <div className="my-4 w-full lg:w-6/12 px-4">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net"
                     target="_blank"
                   >
                     <div className="bg-red-600 shadow-lg rounded-lg text-center p-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte.jpg"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/svelte.jpg"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         Svelte
@@ -279,14 +271,14 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net/learning-lab/tailwind/react/alerts/huper?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-blue-500 shadow-lg rounded-lg text-center p-8 mt-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react.jpg"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/react.jpg"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         ReactJS
@@ -294,14 +286,14 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net/learning-lab/tailwind/nextjs/alerts/huper?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-gray-800 shadow-lg rounded-lg text-center p-8 mt-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/nextjs.jpg"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         NextJS
@@ -311,14 +303,14 @@ export default function Index() {
                 </div>
                 <div className="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net/learning-lab/tailwind/js/alerts/huper?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-yellow-500 shadow-lg rounded-lg text-center p-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/js.png"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/js.png"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         JavaScript
@@ -326,14 +318,14 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net/learning-lab/tailwind/angular/alerts/huper?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular.jpg"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/angular.jpg"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         Angular
@@ -341,14 +333,14 @@ export default function Index() {
                     </div>
                   </a>
                   <a
-                    href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vtw-index"
+                    href="https://www.huper.net/learning-lab/tailwind/vue/alerts/huper?ref=vtw-index"
                     target="_blank"
                   >
                     <div className="bg-green-500 shadow-lg rounded-lg text-center p-8 mt-8">
                       <img
                         alt="..."
                         className="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
-                        src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue.jpg"
+                        src="https://raw.githubusercontent.com/huper/public-assets/master/logos/vue.jpg"
                       />
                       <p className="text-lg text-white mt-4 font-semibold">
                         Vue.js
@@ -364,45 +356,42 @@ export default function Index() {
                 <i className="fas fa-drafting-compass text-xl"></i>
               </div>
               <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                Javascript Components
+                HUPER YT
               </h3>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-                In order to create a great User Experience some components
-                require JavaScript. In this way you can manipulate the elements
-                on the page and give more options to your users.
+                Super YT company.
               </p>
               <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-                We created a set of Components that are dynamic and come to help
-                you.
+                We can create everything.
               </p>
               <div className="block pb-6">
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Alerts
+                  Software
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Dropdowns
+                  Applications
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Menus
+                  Mobile
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Modals
+                  Social
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Navbars
+                  Blockchain
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Popovers
+                  Security
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tabs
+                  Safe network
                 </span>
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
-                  Tooltips
+                  Super IT 
                 </span>
               </div>
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=nnjs-index"
+                href="https://www.huper.net/learning-lab/tailwind/nextjs/alerts/huper?ref=nnjs-index"
                 target="_blank"
                 className="font-bold text-gray-800 hover:text-gray-600 ease-linear transition-all duration-150"
               >
@@ -492,9 +481,9 @@ export default function Index() {
 
         <div className="justify-center text-center flex flex-wrap mt-24">
           <div className="w-full md:w-6/12 px-12 md:px-4">
-            <h2 className="font-semibold text-4xl">Beautiful Example Pages</h2>
+            <h2 className="font-semibold text-4xl">Software</h2>
             <p className="text-lg leading-relaxed mt-4 mb-4 text-gray-600">
-              Notus NextJS is a completly new product built using our past
+              is a completly new product built using our past
               experience in web templates. Take the examples we made for you and
               start playing with them.
             </p>
@@ -585,7 +574,7 @@ export default function Index() {
                 Star!
               </p>
               <a
-                href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
+                href="https://github.com/huper/site?ref=nnjs-index"
                 target="_blank"
                 className="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg"
               >
@@ -639,14 +628,14 @@ export default function Index() {
               </p>
               <div className="sm:block flex flex-col mt-10">
                 <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
+                  href="https://www.huper.net/learning-lab/tailwind/nextjs/overview/huper?ref=nnjs-index"
                   target="_blank"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-gray-600 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   Get started
                 </a>
                 <a
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
+                  href="https://github.com/huper/site?ref=nnjs-index"
                   target="_blank"
                   className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-gray-800 active:bg-gray-700 uppercase text-sm shadow hover:shadow-lg"
                 >
