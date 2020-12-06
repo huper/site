@@ -1,5 +1,5 @@
-<a href="https://www.huper.net/campaign?utm_medium=social&utm_source=github&utm_campaign=cm-readme-2020">
-<img border="0" alt="Huper Cyber Monday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/cm-github-banner.jpg" >
+<a href="https://www.huper.net">
+<img border="0" alt="Huper Cyber Monday Offer" src="https://github.com/huper/site/blob/main/assets/img/default.png" >
 </a>
 
 
