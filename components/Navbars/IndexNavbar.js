@@ -52,7 +52,7 @@ export default function Navbar(props) {
               <li className="flex items-center">
                 <a
                   className="hover:text-gray-600 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdemos.huper.net%2Fsite%2F"
+                  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.huper.net%2F"
                   target="_blank"
                 >
                   <i className="text-gray-500 fab fa-facebook text-lg leading-lg " />
