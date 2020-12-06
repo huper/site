@@ -13,7 +13,7 @@ export default function Index() {
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
               <h2 className="font-semibold text-4xl text-gray-700">
-                Huper.net - Super Humans.
+                Huper.net - YT Company.
               </h2>
               <p className="mt-4 text-lg leading-relaxed text-gray-600">
                 Huper is Free and Open Source. It does not change or add
@@ -23,9 +23,9 @@ export default function Index() {
                   className="text-gray-700"
                   target="_blank"
                 >
-                  Huper YT Company
+                  Open YT Company
                 </a>
-                . Open IT Company to Super Humans.
+                . technologies and education.
               </p>
               <div className="mt-12">
                 <a
@@ -95,7 +95,7 @@ export default function Index() {
                     ></polygon>
                   </svg>
                   <h4 className="text-xl font-bold text-white">
-                    Super Society
+                    OpenSociety
                   </h4>
                   <p className="text-md font-light mt-2 text-white">
                     How will be the society in the future? However how was your 
