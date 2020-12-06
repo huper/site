@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {\n  return \"Show page working ! \";\n});","map":{"version":3,"sources":["/Users/huper/source/site/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe,YAAM;AACjB,SAAO,sBAAP;AACC,CAFL","sourcesContent":["export default () => {\n    return \"Show page working ! \";\n    }"]},"metadata":{},"sourceType":"module"}
